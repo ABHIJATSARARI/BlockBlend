@@ -28,7 +28,9 @@ BlockBlend is a powerful Android application that allows users to detect and cap
 
 ## Phase 1 resutl preset screens 
 
+![](https://github.com/ABHIJATSARARI/BlockBlend/blob/main/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png)
+
 <p align="center">
-  <img src="https://github.com/ABHIJATSARARI/BlockBlend/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png" alt="Preset Logo" width="200">
+  <img src=["https://github.com/ABHIJATSARARI/BlockBlend/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png"](https://github.com/ABHIJATSARARI/BlockBlend/blob/main/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png) alt="Preset Logo" width="200">
 </p>
 
