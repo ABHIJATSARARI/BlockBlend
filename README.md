@@ -3,7 +3,7 @@
 BlockBlend is an Android application designed to detect and capture blocks from user activity. This README provides an overview of the app, its features, installation instructions, usage guidelines, and more.
 
 <p align="center">
-  <img src="https://github.com/ABHIJATSARARI/BlockBlend/src/main/android/java/com/blockblend/utils/Designer__1_-removebg-preview.png" alt=" Logo" width="200">
+  <img src="https://github.com/ABHIJATSARARI/BlockBlend/blob/main/src/main/android/java/com/blockblend/utils/Designer__1_-removebg-preview.png"  alt=" Logo" width="200">
 </p>
 ## Table of Contents
 1. Introduction
@@ -26,11 +26,8 @@ BlockBlend is a powerful Android application that allows users to detect and cap
 
 ## Development phase (you may not able to see the main source code yet!!)
 
-## Phase 1 resutl preset screens 
+## Phase 1 result preset screens 
 
 ![](https://github.com/ABHIJATSARARI/BlockBlend/blob/main/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png)
 
-<p align="center">
-  <img src=["https://github.com/ABHIJATSARARI/BlockBlend/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png"](https://github.com/ABHIJATSARARI/BlockBlend/blob/main/src/main/android/java/com/blockblend/utils/Designer__2_-removebg-preview.png) alt="Preset Logo" width="200">
-</p>
 
